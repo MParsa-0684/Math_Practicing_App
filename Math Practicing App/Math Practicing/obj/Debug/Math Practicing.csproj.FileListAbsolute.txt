@@ -1,0 +1,16 @@
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\bin\Debug\Math Practicing.exe.config
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\bin\Debug\Math Practicing.exe
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\bin\Debug\Math Practicing.pdb
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math Practicing.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Form1.resources
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math Practicing.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math Practicing.exe
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math Practicing.pdb
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Form2.resources
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Form3.resources
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Form4.resources
+C:\Users\Parsa Arani\Desktop\Math Practicing\Math Practicing\obj\Debug\Math_Practicing.Form5.resources
+C:\Users\Parsa Arani\Desktop\Projects\Math Practicing\Math Practicing\bin\Debug\Math Practicing.exe.config
+C:\Users\Parsa Arani\Desktop\Projects\Math Practicing\Math Practicing\obj\Debug\Math Practicing.exe
+C:\Users\Parsa Arani\Desktop\Projects\Math Practicing\Math Practicing\obj\Debug\Math Practicing.pdb
